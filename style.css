@@ -6,9 +6,9 @@ body {
   position: relative;
   width: 100%;
   height: 100vh;
-  background-image: url ("https://zupimages.net/up/20/46/j03a.png"),
+  background-image: url("https://zupimages.net/up/20/46/j03a.png"),
     url("https://zupimages.net/up/20/46/62bl.png"),
-    url ("https://zupimages.net/up/20/46/62g7.png");
+    url("https://zupimages.net/up/20/46/62g7.png");
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
